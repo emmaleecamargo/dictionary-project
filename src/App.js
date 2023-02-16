@@ -1,5 +1,6 @@
 import "./App.css";
 import Dictionary from "./Dictionary";
+import axios from "axios";
 
 export default function App() {
   return (
